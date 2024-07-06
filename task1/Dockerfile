@@ -17,4 +17,4 @@ COPY . /app
 
 EXPOSE 5252
 
-CMD ["python3", "api.py"
+CMD ["python3", "api.py"]
